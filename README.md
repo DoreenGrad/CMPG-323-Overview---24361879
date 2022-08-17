@@ -8,9 +8,9 @@ Below is a flow chart demonstrating the structure of my profile and this specifi
 ```mermaid
 graph TD;
     DoreenGrad-->Repository;
-    Repository-->Projects;
-    Projects-->Labels;
-    Projects-->Milestones;
+    DoreenGrad-->Projects;
+    Repository-->Labels;
+    Repository-->Milestones;
 ```
 
 The purpose of the .gitignore file is to ensure that certain files not tracked by Git remain untracked.
