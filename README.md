@@ -9,6 +9,7 @@ Below is a flow chart demonstrating the structure of my profile and this specifi
 graph TD;
     DoreenGrad-->Repository;
     DoreenGrad-->Projects;
+    Repository-->Projects;
     Repository-->Labels;
     Repository-->Milestones;
 ```
