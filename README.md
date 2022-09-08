@@ -51,3 +51,26 @@ I published my VS to Azure and Cloned my GitHub Overview Repository.
 
 
 I'm updating this READMe file in VS after cloning my Git repository.
+
+What to Submit:
+GitHub URL: 
+https://github.com/DoreenGrad/CMPG-323-Overview---24361879
+
+Credentials to connect to API: 
+Server name: doreencmpg323
+Server admin login: doreenserver
+Password: adminDoreen1
+
+URL to API:
+https://portal.azure.com/#@nwucloud.onmicrosoft.com/resource/subscriptions/6dcf03fb-b58d-4ace-ab0a-496e4ea1f16c/resourceGroups/apim-rgProj2/overview
+
+List of all endpoints:
+
+doreencmpg323   SQL server  South Africa North
+proj2db-dev (doreencmpg323/proj2db-dev) SQL database    South Africa North
+Project2doreen-dev  App Service South Africa North
+Project2doreenPlan-dev  App Service plan    South Africa North
+
+Reference list:
+https://www.geeksforgeeks.org/difference-between-put-and-patch-request/
+https://stackoverflow.com/500-error
