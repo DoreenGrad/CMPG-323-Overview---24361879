@@ -193,8 +193,16 @@ didn't turn out how I thought the instructions were instructing me, instead it c
 
 ![Screenshot (102)](https://user-images.githubusercontent.com/66521420/201095049-bd43d3bc-a8c3-4c1b-9fa5-52cb573d881c.png)
 
-https://app.powerbi.com/groups/051f33aa-11fd-4459-9988-a3c72f8a8b40/list
-https://app.powerbi.com/groups/051f33aa-11fd-4459-9988-a3c72f8a8b40/reports/c6bae9ed-570b-4d60-9676-c9cdc3100089/ReportSectioncd021c7c43ad28778baf
+I have also added filters to this report which allows the user to filter any data they deem neccessary. I have include universal fiters for device name/ID, Zone ID 
+category ID and timeline filtering. Below is a visual from my report representing this:
+
+![Screenshot (105)](https://user-images.githubusercontent.com/66521420/201104107-b41a773a-6569-4073-82fd-efe64d8a85fe.png)
+
+![Screenshot (106)](https://user-images.githubusercontent.com/66521420/201104149-f21412da-969e-458d-8a77-8eaccce200ef.png)
+
+https://app.powerbi.com/groups/me/reports/0d74c190-a9c5-46b6-bb1c-2f6c9d88d5fb/ReportSection
+https://app.powerbi.com/groups/051f33aa-11fd-4459-9988-a3c72f8a8b40/reports/c6bae9ed-570b-4d60-9676-c9cdc3100089/ReportSectione059d1f02f5978e9701f
+https://app.powerbi.com/groups/051f33aa-11fd-4459-9988-a3c72f8a8b40/reports/2f32c605-bf8b-4cc2-90ea-5e43edc63327/ReportSection5
 
 
 
